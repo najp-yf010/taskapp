@@ -19,5 +19,8 @@ class Task: Object {
 
     // 日時
     @Persisted var date = Date()
+    
+    // カテゴリー
+    @Persisted var category = ""
 
 }

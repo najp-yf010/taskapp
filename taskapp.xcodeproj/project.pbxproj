@@ -88,11 +88,11 @@
 				F4F5094B2B109F960033537E /* SceneDelegate.swift */,
 				F4F5094D2B109F960033537E /* ViewController.swift */,
 				F4F5095D2B10A6EE0033537E /* InputViewController.swift */,
+				F42901D52B1600C000EC36A2 /* Task.swift */,
 				F4F5094F2B109F960033537E /* Main.storyboard */,
 				F4F509522B109F970033537E /* Assets.xcassets */,
 				F4F509542B109F970033537E /* LaunchScreen.storyboard */,
 				F4F509572B109F970033537E /* Info.plist */,
-				F42901D52B1600C000EC36A2 /* Task.swift */,
 			);
 			path = taskapp;
 			sourceTree = "<group>";
